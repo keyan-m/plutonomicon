@@ -134,6 +134,6 @@ Another solution is to store the "parameters" of your contract in an
 authenticated (and potentially unique) UTxO. However, note that this approach
 leads to identical addresses for different parameters.
 
-In general, _assuming_ a contract is instantiated properly, is equivalent to
-supporting arbitrary contracts, since this kind of validation is not possible
-yet.
+In general, keep in mind that _assuming_ a contract is instantiated properly, is
+equivalent to supporting arbitrary contracts, since this kind of validation is
+not yet possible.
